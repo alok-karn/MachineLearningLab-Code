@@ -4,3 +4,6 @@
 *.ppt
 *.pptx
 *.pdf
+
+# ignore the data folder
+data/
